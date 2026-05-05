@@ -24,7 +24,6 @@ real-time SSE streaming, PCAP analysis, and full MITRE ATT&CK framework mapping.
 - [Architecture](#-architecture)
 - [The 16 Detectors](#-the-16-detectors)
 - [Dashboard](#-dashboard)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
@@ -152,20 +151,6 @@ Every scan is auto-saved to SQLite:
 - Click any entry to reload full results into the dashboard
 - A dismissable **history banner** appears when viewing archived data
 - Delete individual entries or **Clear All** history at once
-
----
-
-## 📸 Screenshots
-
-> _Add screenshots of your dashboard here after deployment._
-
-| PCAP Analyzer | Live Replay | Scan History |
-|:---:|:---:|:---:|
-| `screenshot_analyzer.png` | `screenshot_replay.png` | `screenshot_history.png` |
-
-| Detail Panel | Export PDF | Charts |
-|:---:|:---:|:---:|
-| `screenshot_detail.png` | `screenshot_pdf.png` | `screenshot_charts.png` |
 
 ---
 
