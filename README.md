@@ -165,8 +165,7 @@ Every scan is auto-saved to SQLite:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/netwatchman.git
-cd netwatchman
+git clone https://github.com/Doumit04/netwatchman.git
 
 # 2. Create and activate virtual environment
 python -m venv venv
